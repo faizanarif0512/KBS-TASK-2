@@ -62,3 +62,7 @@ Allows the administrator to turn voting ON or OFF.
 - **Language:** Solidity
 - **Solidity Version:** ^0.8.20
 - **IDE:** Remix Ethereum IDE
+
+## Deployment Screenshot
+<img width="1600" height="821" alt="image" src="https://github.com/user-attachments/assets/0393c0d2-0d94-474c-a89a-7a72e5d58408" />
+
